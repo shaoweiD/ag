@@ -1,10 +1,7 @@
-<<<<<<< HEAD
+
 url:http://shaoweiD.github.io
 baseurl:/ag/
-=======
-url: https://shaoweid.github.io
-baseurl: /ag/
->>>>>>> origin/gh-pages
+
 
 # Site settings
 title: Awesome Title
